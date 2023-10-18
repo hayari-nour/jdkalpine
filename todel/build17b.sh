@@ -1,3 +1,0 @@
-#!/bin/ash
-
-echo  "hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
